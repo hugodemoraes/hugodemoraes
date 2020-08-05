@@ -11,6 +11,6 @@
 ![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hugodemoraes&count_private=true&show_icons=true&theme=dracula&hide=stars,issues&hide_border=true)
 
 ### TOP Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugodemoraes&theme=dracula&hide=java)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugodemoraes&theme=dracula&hide=java&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/hugodemoraes
