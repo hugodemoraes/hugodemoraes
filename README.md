@@ -2,7 +2,7 @@
 ## I'm a brazilian developer working and living in São Paulo/SP at the moment
 
 - 🔭 I’m currently working on ReactJS and React Native Projects
-- 🌱 I’m currently learning Flutter and Svelte
+- 🌱 I’m currently learning Flutter and Swift
 
 ### 📫 Connect with me: 
 [<img alt="Hugo de Moraes | LinkedIn" src="https://img.icons8.com/ios-filled/32/000000/linkedin.png"/>][linkedin]
