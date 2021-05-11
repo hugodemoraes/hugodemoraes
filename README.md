@@ -1,8 +1,8 @@
 # Hi there, I'm Hugo :metal:
 ## I'm a brazilian developer working and living in São Paulo/SP at the moment
 
-- 🔭 I’m currently working on ReactJS and React Native Projects
-- 🌱 I’m currently learning Flutter and Swift
+- 🔭 I’m currently working with React Native
+- 🌱 I’m currently learning Flutter
 
 ### 📫 Connect with me: 
 [<img alt="Hugo de Moraes | LinkedIn" src="https://img.icons8.com/ios-filled/32/000000/linkedin.png"/>][linkedin]
